@@ -1,0 +1,10 @@
+{  "recordCount": 3,
+    "records": [
+    { "id": 1, "name": "Notebook Lenovo", "description": "Ноутбук ThinkPad T4", 
+    "price": "100", "quantity": "2" },
+    { "id": 2, "name": "Keyboard OKLICK", "description": "Клавиатура OKLICK", 
+    "price": "50", "quantity": "8" },
+    { "id": 3, "name": "Network adapter", "description": "Сетевой адаптер wi-fi", 
+    "price": "7", "quantity": "0" }
+]
+}
